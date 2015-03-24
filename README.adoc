@@ -1,0 +1,13 @@
+= XKE CodeJam Skeletons
+Jeroen van Erp
+v1.0, 2015-03-31
+
+== Contents
+This repository contains the skeleton code for quickly getting started with the codejam problem(s) during the XKE. I've provided similar skeletons for the following languages:
+
+- Scala
+- Python
+- Go
+
+== Scala
+A `build.gradle` file is provided. Just type `gradle run`
